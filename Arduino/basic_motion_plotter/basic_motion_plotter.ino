@@ -1,3 +1,4 @@
+//Controlling the plotter with two motor drivers without using a shield
 #include <Servo.h>
 
 Servo servo1;
